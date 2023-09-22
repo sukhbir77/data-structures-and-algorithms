@@ -9,3 +9,24 @@ Example 2:
 Input: root = [1], target = 4.428571
 Output: 1
 */
+
+var closestValue = function (root, target) {
+  let dfs = (node) => {
+    if (node == null) return;
+
+    dfs(node.left);
+    values.push(node.val);
+    dfs(node.right);
+  };
+  let values = [];
+  dfs(root);
+  let ans = values[0];
+
+  for (let num of values) {
+    if (Math.abs(target - num) < Math.abs(target - ans)) {
+      ans = num;
+    }
+  }
+
+  return ans;
+};
