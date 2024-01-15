@@ -11,7 +11,7 @@ This repository contains JavaScript solutions to various LeetCode questions, org
 - [Recursion](./Recursion)
 - [Stack & Queue](./Stack%20&%20Queues)
 - [Top 150](./Top%20150)
-- [Hash Map](./Hashmaps)
+- [Hash Map](./HashMaps)
 
 ## Getting Started
 
