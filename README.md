@@ -6,11 +6,11 @@ This repository contains JavaScript solutions to various LeetCode questions, org
 
 - [Array](./Arrays&Strings)
 - [Linked List](./LinkedList)
-- [Binary Tree](./BinaryTree)
+- [Binary Tree](./Binary%20Tree)
 - [Graph](./Graphs)
 - [Recursion](./Recursion)
-- [Stack & Queue](./Stack&Queues)
-- [Top 150](./Top150)
+- [Stack & Queue](./Stack%20&%20Queues)
+- [Top 150](./Top%20150)
 - [Hash Map](./Hashmaps)
 
 ## Getting Started
