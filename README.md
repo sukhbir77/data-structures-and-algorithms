@@ -4,7 +4,7 @@ This repository contains JavaScript solutions to various LeetCode questions, org
 
 ## Table of Contents
 
-- [Array](./array)
+- [Array](./Arrays&Strings)
 - [Linked List](./linked-list)
 - [Tree](./tree)
 - [Graph](./graph)
