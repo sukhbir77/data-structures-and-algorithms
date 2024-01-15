@@ -5,18 +5,17 @@ This repository contains JavaScript solutions to various LeetCode questions, org
 ## Table of Contents
 
 - [Array](./Arrays&Strings)
-- [Linked List](./linked-list)
-- [Tree](./tree)
-- [Graph](./graph)
-- [Sorting](./sorting)
-- [Searching](./searching)
-- [Dynamic Programming](./dynamic-programming)
-- [Hashing](./hashing)
-- [Other](./other)
+- [Linked List](./LinkedList)
+- [Binary Tree](./Binary Tree)
+- [Graph](./Graphs)
+- [Recursion](./Recursion)
+- [Stack & Queue](./Stack & Queues)
+- [Top 150](./Top 150)
+- [Hash Map](./Hashmaps)
 
 ## Getting Started
 
 Clone the repository to your local machine to get started:
 
 ```bash
-git clone https://github.com/your-username/leetcode-javascript.git
+git clone https://github.com/sing9014/DataStructures.git
