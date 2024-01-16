@@ -18,4 +18,4 @@ This repository contains JavaScript solutions to various LeetCode questions, org
 Clone the repository to your local machine to get started:
 
 ```bash
-git clone https://github.com/sing9014/DataStructures.git
+git clone https://github.com/sing9014/data-structures-and-algorithms.git
